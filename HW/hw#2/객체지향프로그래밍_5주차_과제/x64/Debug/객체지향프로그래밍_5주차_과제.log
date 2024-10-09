@@ -1,0 +1,3 @@
+﻿  Game.cpp
+E:\windows\바탕화면\객체지향프로그래밍_5주차_과제\Game.cpp(25,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  객체지향프로그래밍_5주차_과제.vcxproj -> E:\windows\바탕화면\객체지향프로그래밍_5주차_과제\x64\Debug\객체지향프로그래밍_5주차_과제.exe
